@@ -6,8 +6,10 @@ models to identify customers who may leave a telecom service.
 
 ## Dataset
 IBM Telco Customer Churn dataset.
+
+📓 [View the Customer Churn Analysis Notebook](https://github.com/shanvi16/Customer-intelligence-churn-prevention/blob/main/Customer_Intelligence_%26_Churn_Prevention_System.ipynb)
 The dataset contains customer demographics, subscribed services,
-account information, and churn labels.
+account information and churn labels.
 
 ## Technologies
 - Python
@@ -22,7 +24,7 @@ account information, and churn labels.
 - Categorical feature encoding
 - Logistic Regression model
 - Decision Tree model
-- Evaluation using Accuracy, Precision, Recall, F1 Score, and ROC-AUC
+- Evaluation using Accuracy, Precision, Recall, F1 Score and ROC-AUC
 - Model coefficient visualization
 - Model comparison chart and results table
 
