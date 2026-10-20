@@ -1,0 +1,29 @@
+CUSTOMER INTELLIGENCE & CHURN PREVENTION SYSTEM
+
+Dataset:
+IBM Telco Customer Churn
+
+Dataset size:
+7,043 rows and 21 original columns
+
+Test set:
+1,409 customers
+
+Actual churn in test set:
+374 customers (26.54%)
+
+Models evaluated:
+1. Logistic Regression
+2. Decision Tree
+
+Evaluation metrics:
+Accuracy, Precision, Recall, F1-score, ROC-AUC
+
+Business objective:
+Prioritize customers by predicted churn risk to support
+customer-retention outreach.
+
+Limitations:
+Predictions are estimates, not guarantees. Results are based
+on the current test split and do not prove that retention
+actions will reduce churn.
